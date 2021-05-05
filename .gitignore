@@ -1,0 +1,21 @@
+### Intellij ###
+.idea
+
+### macOS ###
+.DS_Store
+
+### SBT ###
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+.bsp
+
+### Scala ###
+*.class
+*.log
